@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test Electron",
   "main": "main.js",
-  "repository":"https://github.com/novasoap/electron-metadata.git",
+  "repository": "https://github.com/novasoap/electron-metadata.git",
   "scripts": {
     "start": "electron ."
   },
