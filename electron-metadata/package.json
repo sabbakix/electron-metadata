@@ -1,0 +1,19 @@
+{
+  "name": "electron-metadata",
+  "version": "1.0.0",
+  "description": "Test Electron",
+  "main": "main.js",
+  "repository":"",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "SS",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.1.2"
+  }
+}
