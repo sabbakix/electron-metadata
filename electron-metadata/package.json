@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Test Electron",
   "main": "main.js",
-  "repository":"",
+  "repository":"https://github.com/novasoap/electron-metadata.git",
   "scripts": {
-    "test": "test",
     "start": "electron ."
   },
   "keywords": [
