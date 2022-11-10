@@ -13,6 +13,6 @@
   "author": "SS",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.1.2"
+    "electron": "^18.3.7"
   }
 }
